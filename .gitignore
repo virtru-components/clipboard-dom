@@ -1,0 +1,11 @@
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+*.idea
+css/.sass-cache/*
+*.sass-cache
+build
+node_modules/
+components
+*.iml
+*.log
